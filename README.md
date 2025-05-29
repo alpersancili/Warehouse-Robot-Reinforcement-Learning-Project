@@ -2,7 +2,8 @@
 
 This project involves creating a custom environment using Gymnasium to simulate a warehouse setting where a robot learns to navigate, pick up, and deliver items efficiently. The robot is trained using Q-learning, a classic reinforcement learning algorithm, to optimize its behavior for warehouse tasks.
 
-Project Details
+PROJECT DETAILS
+
 Custom Gymnasium Environment:
 The warehouse is modeled as a grid world where the robot can move in four directions (up, down, left, right). It interacts with pickup points, delivery spots, and avoids obstacles to complete delivery tasks.
 
@@ -15,7 +16,7 @@ Through multiple episodes, the robot improves its policy to maximize efficiency 
 Visualization:
 The environment includes a visual representation of the robot’s movements and task progress, aiding in understanding and debugging.
 
-Real-Life Applications
+REAL-LIFE APPLICATION
 Warehouse Automation:
 Reinforcement learning agents like this can be used to train robots for logistics automation, improving productivity in warehouses.
 
@@ -27,5 +28,5 @@ Automated robotic systems reduce manual labor needs and improve safety by handli
 
 This project demonstrates how Gymnasium and Q-learning can be combined to model and solve real-world warehouse logistics problems with reinforcement learning.
 
-Credit
+CREDIT
 This project was completed by following the tutorial series by Johnny Code on YouTube. Huge thanks for the detailed walkthroughs and guidance!
